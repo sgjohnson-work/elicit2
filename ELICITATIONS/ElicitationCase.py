@@ -1,1 +1,1 @@
-wrk_dir = 'Elicitations'
+wrk_dir = 'test'
