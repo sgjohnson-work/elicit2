@@ -1,1 +1,1 @@
-wrk_dir = 'ELICITATIONS/Cotopaxi'
+wrk_dir = 'ELICITATIONS/Cotopaxi/DATA/seed'
