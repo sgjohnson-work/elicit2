@@ -1,14 +1,14 @@
 elicitation_name = 'Cotopaxi'
 
 # datarepo can be 'local' or 'github'
-datarepo = 'local'
+datarepo = 'github'
 
 # if datarepo is 'github' you need user and token to access it
-# user = ''
+# user = 'sgjohnson-work'
 # github_token = ''
 
 # Repository with data (used only when datarepo='github')
-# Repository = ''
+# Repository = 'elicit'
 
 output_dir = 'OUTPUT'
 
